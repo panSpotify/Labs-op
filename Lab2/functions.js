@@ -15,7 +15,7 @@ function cube(x) {
 function calculate() {
     let result = [];
     for (let x = 0; x < 10; x++) {
-        result.push(avarage(square(x), cube(x)));
+        result.push(average(square(x), cube(x)));
     }
     return result;
 }
