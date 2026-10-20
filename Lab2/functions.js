@@ -1,6 +1,6 @@
 'use strict'
 
-function avarage(a, b) {
+function average(a, b) {
     return (a + b) / 2;
 }
 
